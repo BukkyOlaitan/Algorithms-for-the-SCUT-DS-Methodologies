@@ -1,4 +1,4 @@
-# SCUT-DS-1-Algorithm
+# SCUT-DS Algorithm
 The pseudocodes for the SCUT-DS methodologies are listed here. 
 SCUT-DS+ is one of the variant of the SCUT-DS Methodologies. 
 The other one is SCUT-DS++
